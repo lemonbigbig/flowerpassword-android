@@ -1,1 +1,2 @@
 # flowerpassword-android
+这个是花密安卓客户端的开源代码，原本是在flowerpassword.com上的，由花密团队的JohnnyJian制作
