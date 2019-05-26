@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3/trunk/libs/action-bar-sherlock/src/android/support/v4/widget
+END
+EdgeEffectCompat.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/libs/action-bar-sherlock/src/android/support/v4/widget/EdgeEffectCompat.java
+END
+ResourceCursorAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3/trunk/libs/action-bar-sherlock/src/android/support/v4/widget/ResourceCursorAdapter.java
+END
+SearchViewCompatHoneycomb.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3/trunk/libs/action-bar-sherlock/src/android/support/v4/widget/SearchViewCompatHoneycomb.java
+END
+SimpleCursorAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3/trunk/libs/action-bar-sherlock/src/android/support/v4/widget/SimpleCursorAdapter.java
+END
+CursorAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3/trunk/libs/action-bar-sherlock/src/android/support/v4/widget/CursorAdapter.java
+END
+CursorFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3/trunk/libs/action-bar-sherlock/src/android/support/v4/widget/CursorFilter.java
+END
+SearchViewCompat.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/3/trunk/libs/action-bar-sherlock/src/android/support/v4/widget/SearchViewCompat.java
+END
+EdgeEffectCompatIcs.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3/trunk/libs/action-bar-sherlock/src/android/support/v4/widget/EdgeEffectCompatIcs.java
+END

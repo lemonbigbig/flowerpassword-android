@@ -1,0 +1,82 @@
+10
+
+dir
+25
+http://flower-password-android.googlecode.com/svn/trunk/res
+http://flower-password-android.googlecode.com/svn
+
+
+
+2012-03-28T08:36:57.282521Z
+25
+JohnnyJianHY@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31db8dd1-3ab7-e112-c889-3edafd56e487
+
+color
+dir
+
+values-xlarge
+dir
+
+drawable
+dir
+
+layout-land
+dir
+
+values-xlarge-land
+dir
+
+values
+dir
+
+xml
+dir
+
+drawable-hdpi
+dir
+
+menu
+dir
+
+values-v11
+dir
+
+drawable-ldpi
+dir
+
+values-v14
+dir
+
+drawable-hdpi-v11
+dir
+
+drawable-mdpi
+dir
+
+layout-xlarge-land
+dir
+
+values-land
+dir
+
+layout
+dir
+
+drawable-mdpi-v11
+dir
+

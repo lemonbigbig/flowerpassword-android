@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/14/tags/1.0/libs/action-bar-sherlock
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/14/tags/1.0/libs/action-bar-sherlock/AndroidManifest.xml
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/14/tags/1.0/libs/action-bar-sherlock/pom.xml
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14/tags/1.0/libs/action-bar-sherlock/README.md
+END
+checkstyle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14/tags/1.0/libs/action-bar-sherlock/checkstyle.xml
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/14/tags/1.0/libs/action-bar-sherlock/project.properties
+END

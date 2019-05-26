@@ -1,0 +1,85 @@
+10
+
+dir
+25
+http://flower-password-android.googlecode.com/svn/trunk/libs/action-bar-sherlock/res
+http://flower-password-android.googlecode.com/svn
+
+
+
+2012-01-12T14:58:26.479260Z
+3
+JohnnyJianHY@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31db8dd1-3ab7-e112-c889-3edafd56e487
+
+values-v11
+dir
+
+layout-large
+dir
+
+values-v13
+dir
+
+drawable-ldpi
+dir
+
+drawable-mdpi
+dir
+
+values-land
+dir
+
+layout
+dir
+
+color
+dir
+
+values-xlarge
+dir
+
+drawable
+dir
+
+values-normal
+dir
+
+values-large
+dir
+
+drawable-nodpi
+dir
+
+layout-land
+dir
+
+drawable-nodpi-v11
+dir
+
+values
+dir
+
+values-sw600dp
+dir
+
+values-large-land
+dir
+
+drawable-hdpi
+dir
+

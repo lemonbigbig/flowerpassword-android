@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/14/tags/1.0/libs/action-bar-sherlock/src/android/support/v4/view
+END
+ViewConfigurationCompatFroyo.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/14/tags/1.0/libs/action-bar-sherlock/src/android/support/v4/view/ViewConfigurationCompatFroyo.java
+END
+AccessibilityDelegateCompatIcs.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/14/tags/1.0/libs/action-bar-sherlock/src/android/support/v4/view/AccessibilityDelegateCompatIcs.java
+END
+AccessibilityDelegateCompat.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/14/tags/1.0/libs/action-bar-sherlock/src/android/support/v4/view/AccessibilityDelegateCompat.java
+END
+MenuItemCompat.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/14/tags/1.0/libs/action-bar-sherlock/src/android/support/v4/view/MenuItemCompat.java
+END
+ViewPager.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/14/tags/1.0/libs/action-bar-sherlock/src/android/support/v4/view/ViewPager.java
+END
+ViewGroupCompatIcs.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/14/tags/1.0/libs/action-bar-sherlock/src/android/support/v4/view/ViewGroupCompatIcs.java
+END
+MenuItemCompatHoneycomb.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/14/tags/1.0/libs/action-bar-sherlock/src/android/support/v4/view/MenuItemCompatHoneycomb.java
+END
+MotionEventCompatEclair.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/14/tags/1.0/libs/action-bar-sherlock/src/android/support/v4/view/MotionEventCompatEclair.java
+END
+ViewGroupCompat.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/14/tags/1.0/libs/action-bar-sherlock/src/android/support/v4/view/ViewGroupCompat.java
+END
+KeyEventCompat.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/14/tags/1.0/libs/action-bar-sherlock/src/android/support/v4/view/KeyEventCompat.java
+END
+PagerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/14/tags/1.0/libs/action-bar-sherlock/src/android/support/v4/view/PagerAdapter.java
+END
+KeyEventCompatHoneycomb.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/14/tags/1.0/libs/action-bar-sherlock/src/android/support/v4/view/KeyEventCompatHoneycomb.java
+END
+Menu.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/14/tags/1.0/libs/action-bar-sherlock/src/android/support/v4/view/Menu.java
+END
+ViewConfigurationCompat.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/14/tags/1.0/libs/action-bar-sherlock/src/android/support/v4/view/ViewConfigurationCompat.java
+END
+Window.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/14/tags/1.0/libs/action-bar-sherlock/src/android/support/v4/view/Window.java
+END
+MenuCompat.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/14/tags/1.0/libs/action-bar-sherlock/src/android/support/v4/view/MenuCompat.java
+END
+ViewCompatGingerbread.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/14/tags/1.0/libs/action-bar-sherlock/src/android/support/v4/view/ViewCompatGingerbread.java
+END
+MotionEventCompat.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/14/tags/1.0/libs/action-bar-sherlock/src/android/support/v4/view/MotionEventCompat.java
+END
+ViewCompatICS.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/14/tags/1.0/libs/action-bar-sherlock/src/android/support/v4/view/ViewCompatICS.java
+END
+ViewCompat.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/14/tags/1.0/libs/action-bar-sherlock/src/android/support/v4/view/ViewCompat.java
+END
+SubMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/14/tags/1.0/libs/action-bar-sherlock/src/android/support/v4/view/SubMenu.java
+END
+VelocityTrackerCompat.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/14/tags/1.0/libs/action-bar-sherlock/src/android/support/v4/view/VelocityTrackerCompat.java
+END
+PagerTitleStrip.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/14/tags/1.0/libs/action-bar-sherlock/src/android/support/v4/view/PagerTitleStrip.java
+END
+ActionMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/14/tags/1.0/libs/action-bar-sherlock/src/android/support/v4/view/ActionMode.java
+END
+VelocityTrackerCompatHoneycomb.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/14/tags/1.0/libs/action-bar-sherlock/src/android/support/v4/view/VelocityTrackerCompatHoneycomb.java
+END
+MenuItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/14/tags/1.0/libs/action-bar-sherlock/src/android/support/v4/view/MenuItem.java
+END

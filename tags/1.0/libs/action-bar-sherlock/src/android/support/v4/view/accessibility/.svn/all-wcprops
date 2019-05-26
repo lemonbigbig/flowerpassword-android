@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/14/tags/1.0/libs/action-bar-sherlock/src/android/support/v4/view/accessibility
+END
+AccessibilityEventCompat.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/14/tags/1.0/libs/action-bar-sherlock/src/android/support/v4/view/accessibility/AccessibilityEventCompat.java
+END
+AccessibilityNodeInfoCompat.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/14/tags/1.0/libs/action-bar-sherlock/src/android/support/v4/view/accessibility/AccessibilityNodeInfoCompat.java
+END
+AccessibilityManagerCompatIcs.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/14/tags/1.0/libs/action-bar-sherlock/src/android/support/v4/view/accessibility/AccessibilityManagerCompatIcs.java
+END
+AccessibilityManagerCompat.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/14/tags/1.0/libs/action-bar-sherlock/src/android/support/v4/view/accessibility/AccessibilityManagerCompat.java
+END
+AccessibilityRecordCompatIcs.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/14/tags/1.0/libs/action-bar-sherlock/src/android/support/v4/view/accessibility/AccessibilityRecordCompatIcs.java
+END
+AccessibilityRecordCompat.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/14/tags/1.0/libs/action-bar-sherlock/src/android/support/v4/view/accessibility/AccessibilityRecordCompat.java
+END
+AccessibilityEventCompatIcs.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/14/tags/1.0/libs/action-bar-sherlock/src/android/support/v4/view/accessibility/AccessibilityEventCompatIcs.java
+END
+AccessibilityNodeInfoCompatIcs.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/14/tags/1.0/libs/action-bar-sherlock/src/android/support/v4/view/accessibility/AccessibilityNodeInfoCompatIcs.java
+END
